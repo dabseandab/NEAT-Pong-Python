@@ -1,2 +1,7 @@
 neat-python
-pygame
+gym
+click
+tensorflow
+pytest
+keras-applications
+keras-preprocessing
